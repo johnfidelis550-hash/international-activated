@@ -1,0 +1,6 @@
+{
+  "name": "Global Network Account Portal",
+  "description": "Enterprise workflow management system featuring corporate profile verification, secure administrative gateway, and governance review dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
